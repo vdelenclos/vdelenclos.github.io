@@ -13,6 +13,7 @@ slideshowIndex["slideshowLP"] = 0;
 slideshowIndex["slideshowZipline"] = 0;
 slideshowIndex["slideshowZombieRunner"] = 0;
 slideshowIndex["slideshowBounty"] = 0;
+slideshowIndex["slideshowTLF"] = 0;
 
 // initialization of the displays
 for(var key in slideshowIndex) 
